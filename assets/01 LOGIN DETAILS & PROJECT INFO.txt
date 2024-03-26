@@ -1,0 +1,1 @@
+copy database to xampp and replace with your own admin table
